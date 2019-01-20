@@ -16,8 +16,6 @@ def twoNumberSum(array, targetSum):
 					resultArray.append(array[j])
 					resultArray.append(array[i])
 	print("Result Array: ", resultArray)
-	#sotedResultArray = InsertionSort(resultArray)
-	#print("Sorted Result Array")
 		
 if __name__ == '__main__':
 	array = [3, 5, -4, 8, 11, 1, -1, 6]
