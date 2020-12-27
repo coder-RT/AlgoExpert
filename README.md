@@ -1,3 +1,2 @@
 # AlgoExpert
-Top Questions on Algorithms
-Python | Java
+Top Questions on Algorithms :: Python | Java
