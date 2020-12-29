@@ -1,4 +1,4 @@
-public class validateSubsequance {
+public class validateSubsequence {
     public static boolean validateSubseqence(int[] array, int[] subsequence){
         int arrIdx = 0;
         int seqIdx = 0;
